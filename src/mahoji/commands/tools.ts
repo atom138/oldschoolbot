@@ -466,7 +466,7 @@ const dryStreakMinigames: DrystreakMinigame[] = [
 	{
 		name: 'Wintertodt',
 		key: 'wintertodt',
-		items: resolveItems(['Tome of fire', 'Phoenix', 'Bruma torch', 'Warm gloves'])
+		items: resolveItems(['Tome of fire', 'Phoenix', 'Bruma torch', 'Warm gloves', 'Wintertoad'])
 	},
 	{
 		name: 'Tombs of Amascut',
